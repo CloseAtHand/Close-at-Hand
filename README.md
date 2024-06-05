@@ -1,4 +1,4 @@
-![main](https://github.com/RosaDamascena/Close_at_Hand/assets/95911613/32f696f0-45cc-4af0-92bf-aaeb38de5f6e)
+![main](./ReadMeImg/스마트미러_메인.png)
 
 # Close At Hand 🙌
 
@@ -13,7 +13,7 @@
 
 ## UCC🎞
 <a href="https://www.youtube.com/watch?v=cSyNY8Ny024&feature=youtu.be">
-  <img src="https://github.com/RosaDamascena/Close_at_Hand/assets/95911613/56d4fd29-f26f-4a48-a451-717e4adeaf99
+  <img src="./ReadMeImg/UCC 이미지.png
 " alt="UCC이미지">
 </a>
 
@@ -148,7 +148,7 @@
 
 ### 1. AR 옷 입어보기
 
-![AR_fitting](https://github.com/RosaDamascena/Close_at_Hand/assets/95911613/0bf8139c-da5b-445f-9aab-2c7e95d25ea0)
+![AR_fitting](./docs/picture/20240320_15h29m49s_grim.png)
 
 ✔️ AR 코디 페이지에서 당일 추천된 옷 조회
 
