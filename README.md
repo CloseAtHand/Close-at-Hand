@@ -1,4 +1,4 @@
-![main](../docs/picture/20240320_15h29m49s_grim.png)
+![main](./docs/picture/20240320_15h29m49s_grim.png)
 
 # Close At Hand 🙌
 
