@@ -59,11 +59,11 @@
 
 ## ERD
 
-![ERD](./docs/ReadMeImg/ERD_new.png)
+![ERD](./docs/readmeImage/ERD_new.png)
 
 ## 아키텍쳐
 
-![architecture](./docs/ReadMeImg/architecture.png)
+![architecture](./docs/readmeImage/Architecture.png)
 
 ## 어플리케이션
 
@@ -129,11 +129,11 @@
 
 ## 스마트 미러
 
-![mirror_page](https://github.com/RosaDamascena/Close_at_Hand/assets/95911613/b5d76ceb-1ec4-4558-8a21-9f96eaac807c)
+![mirror_page](./docs/readmeImage/매직미러_외관.jpg)
 
 ### 0. 메인 화면
 
-![main_page](https://github.com/RosaDamascena/Close_at_Hand/assets/95911613/9927b9ec-bdad-431e-b6d0-1c8f53f53d6e)
+![main_page](./docs/readmeImage/매직미러_메인화면.png)
 
 
 메인화면 사진 유저 인식 전 / 유저 인식 후
@@ -148,7 +148,7 @@
 
 ### 1. AR 옷 입어보기
 
-![AR_fitting](https://github.com/RosaDamascena/Close_at_Hand/assets/95911613/0bf8139c-da5b-445f-9aab-2c7e95d25ea0)
+![AR_fitting](./docs/readmeImage/매직미러_AR코디.svg)
 
 ✔️ AR 코디 페이지에서 당일 추천된 옷 조회
 
@@ -160,7 +160,7 @@
 
 ### 2. 옷 등록하기
 
-![ootd](https://github.com/RosaDamascena/Close_at_Hand/assets/95911613/3625af34-a92e-4a82-a071-0705c3a31083)
+![ootd](./docs/readmeImage/매직미러_OOTD.gif)
 
 ✔️ 외출 전 스마트미러 기기 앞에서 오늘의 OOTD 촬영
 
