@@ -59,11 +59,11 @@
 
 ## ERD
 
-![ERD](ReadMeImg/ERD_new.png)
+![ERD](./docs/ReadMeImg/ERD_new.png)
 
 ## 아키텍쳐
 
-![architecture](ReadMeImg/architecture.png)
+![architecture](./docs/ReadMeImg/architecture.png)
 
 ## 어플리케이션
 
@@ -77,7 +77,7 @@
 
 ### **2. 메인페이지**
 
-<img src="ReadMeImg/appMain.gif" height="700" alt="앱 메인 페이지" title="앱 메인 페이지" />
+<img src="./docs/ReadMeImg/appMain.gif" height="700" alt="앱 메인 페이지" title="앱 메인 페이지" />
 
 ✔️ 거울과 상호작용 기능(거울 인터페이스 조정, 와이파이 정보 입력, )
 
@@ -107,7 +107,7 @@
 
 ### **5. 빨래 바구니**
 
-<img src="ReadMeImg/laundryBasket.gif" height="700" alt="빨래 바구니" title="빨래 바구니" />
+<img src="./docs/ReadMeImg/laundryBasket.gif" height="700" alt="빨래 바구니" title="빨래 바구니" />
 
 ✔️ 오늘 입은 옷 중 선택을 통해 빨래바구니로 이동 가능
 
